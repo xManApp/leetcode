@@ -1,13 +1,14 @@
-package com.example.demo;
+package com.idea.heapstack;
 
 import java.util.HashMap;
 import java.util.Stack;
 
 /**
+ * 20有效的括号
  * @author 赵继
- *         2019/11/2.
+ * 2019/11/2.
  */
-public class TestStack {
+public class BracketStack {
 
     public static void main(String[] args) {
         System.out.println(isValid("{}"));
