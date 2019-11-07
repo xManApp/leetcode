@@ -5,7 +5,7 @@ package com.idea.linked;
  * @author 赵继
  * 2019/11/7.
  */
-public class mergeTwoLinkedLists {
+public class MergeTwoLinkedLists {
 
     class ListNode {
       int val;
